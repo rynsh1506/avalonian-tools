@@ -99,11 +99,11 @@ npm run tauri dev
 
 ---
 
-<div align="center">
-<i>Craft smarter, not harder. ⚒️</i>
-</div>
-
 
 ## Support Me:
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X31YLACE)
+
+<div align="center">
+<i>Craft smarter, not harder. ⚒️</i>
+</div>
