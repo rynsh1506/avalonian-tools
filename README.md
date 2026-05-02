@@ -104,5 +104,6 @@ npm run tauri dev
 </div>
 
 
-Support Me:
+## Support Me:
+
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X31YLACE)
